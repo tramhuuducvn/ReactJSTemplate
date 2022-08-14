@@ -12,7 +12,7 @@ const UseMemoDemo = ()=>{
             price: +price
         }])
     }
-    console.log('Products ', products); 
+    // console.log('Products ', products); 
 
     const total = useMemo(()=>{
         const result = products.reduce((result, prod)=>{
