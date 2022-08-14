@@ -52,8 +52,6 @@ const UseStateDemo = () => {
 export default UseStateDemo;
 
 
-
-
 /*
 <=== Simple example ===>
 const data = [100, 200, 300, 400]
