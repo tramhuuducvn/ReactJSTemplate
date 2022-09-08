@@ -31,6 +31,8 @@ const UseStateDemo = () => {
     })
   }
 
+  console.log('@DUKE',checked);
+
   return (
     <div style={{padding: 16}}>
       {courses.map(course => 
